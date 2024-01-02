@@ -1,1 +1,1 @@
-# main_project
+# my_main_project
